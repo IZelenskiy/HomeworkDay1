@@ -1,0 +1,12 @@
+*** Lecture 118. Formatting date and time ***
+
+2010-04-15
+2010-04-15T11:22:30
+11:22:30
+
+* DateTime Formatter
+SHORT FORMAT: 15.04.2010
+MEDIUM FORMAT: 15 апр. 2010 г.
+
+* Custom Formatter
+апреля 15, 2010, 11:22

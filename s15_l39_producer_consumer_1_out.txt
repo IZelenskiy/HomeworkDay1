@@ -1,0 +1,12 @@
+*** Lecture 39. Producer and Consumer with notify() and wait() ***
+
+New Question: 0
+New Question: 1
+ANSWERED Questions: 0
+ANSWERED Questions: 1
+No questions to answer.. Waiting...
+New Question: 2
+New Question: 3
+New Question: 4
+New Question: 5
+ANSWERED Questions: 2

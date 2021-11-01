@@ -1,0 +1,11 @@
+*** Lecture 41. Thread pools and Executor Framework ***
+
+* Shut down the service
+* Await termination
+pool-1-thread-1 [RECEIVED] Message = 2
+pool-1-thread-2 [RECEIVED] Message = 3
+pool-1-thread-1 (DONE) Processing message = 2
+pool-1-thread-2 (DONE) Processing message = 3
+pool-1-thread-1 [RECEIVED] Message = 4
+pool-1-thread-1 (DONE) Processing message = 4
+Submitted all tasks...

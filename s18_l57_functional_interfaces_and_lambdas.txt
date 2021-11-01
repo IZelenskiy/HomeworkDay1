@@ -1,0 +1,10 @@
+*** Lecture 57. Functional interfaces and lambdas ***
+
+* Single line lambda
+Single line lambda walking...
+* Multiple line lambda
+Multiple line lambda walking...
+Multiple line lambda walking else...
+* Functional interface
+* Variable as a method
+Functional interface method output

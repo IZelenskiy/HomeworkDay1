@@ -1,0 +1,14 @@
+*** Lecture 115. Creating date and time ***
+
+* Creating date
+Local Date: 2021-10-30
+Local Time: 01:20:28.723192
+Local Datetime: 2021-10-30T01:20:28.723890
+
+* Certain date
+2010-08-12
+11:33
+2010-08-12T11:33
+
+* Calendar
+Sat Jan 14 01:20:28 EET 2012

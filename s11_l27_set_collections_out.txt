@@ -1,0 +1,10 @@
+*** Lecture 27. HashSet and LinkedHashSet ***
+
+Subaru
+Toyota
+Audi
+BMW
+Car [ Producer: Subaru, Model: Outback, Price: 8000, FourWD: false ]
+Car [ Producer: Lexus, Model: RX420, Price: 10000, FourWD: true ]
+Car [ Producer: Toyota, Model: RAV4, Price: 10000, FourWD: true ]
+Car [ Producer: Audi, Model: A3, Price: 12000, FourWD: false ]

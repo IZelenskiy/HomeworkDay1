@@ -1,0 +1,22 @@
+*** Lecture 59. Built In Functional Interface ***
+
+* Methods without lambda
+- Printing cars between price 19000 and 20000
+Car {make='Lexus', model='RX300', color='White', price=20000}
+Car {make='Toyota', model='Camry', color='White', price=19000}
+
+- Printing cars by color white
+Car {make='Lexus', model='RX300', color='White', price=20000}
+Car {make='Toyota', model='Camry', color='White', price=19000}
+
+* Methods with lambda as a parameter
+- Printing cars between price 19000 and 20000
+Car {make='Lexus', model='RX300', color='White', price=20000}
+Car {make='Toyota', model='Camry', color='White', price=19000}
+
+- Printing cars by color white
+Car {make='Lexus', model='RX300', color='White', price=20000}
+Car {make='Toyota', model='Camry', color='White', price=19000}
+
+* Use Java functional Interface (Function)
+Price: 17300, Color: Red

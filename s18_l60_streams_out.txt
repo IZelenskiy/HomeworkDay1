@@ -1,0 +1,26 @@
+*** Lecture 60. Streams ***
+
+
+* Integer stream
+123456789
+* Integer stream with skip first 5 element
+6789
+* Integer stream with sum (from 1 to 5)
+10
+
+* Stream OF, sort and find first
+Africa
+
+* Stream from array, filter and print
+tent, toy, 
+* Average of squares of an int array
+41.8
+
+* Stream from a list, filter and print
+car, computer, 
+* Streaming files
+Bitcoin, Computer Application, Dry Cleaner, Education, Health Insurance, Keyboard, Powerade, Samantha, White Board, 
+* Streaming files (words contains)
+Samantha, Health Insurance, 
+* Splitting CSV
+3 good rows.

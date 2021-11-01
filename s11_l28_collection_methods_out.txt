@@ -1,0 +1,16 @@
+*** Lecture 28. Collection Methods ***
+
+* Contains method: true
+* IsEmpty method: false
+* Retain All method
+[55, 52, 39, 34, 20, 10, 10, 10]
+* New HashSet based on List
+[34, 52, 20, 55, 39, 10]
+* Sort List with integers
+[10, 10, 10, 20, 34, 39, 52, 55]
+* Sort List with custom types
+Car [ Producer: Subaru, Model: Outback, Price: 5000, FourWD: false ]
+Car [ Producer: Toyota, Model: RAV4, Price: 10000, FourWD: true ]
+Car [ Producer: Audi, Model: A3, Price: 12000, FourWD: false ]
+Car [ Producer: Toyota, Model: RAV4, Price: 18000, FourWD: true ]
+Car [ Producer: Lexus, Model: RX420, Price: 30000, FourWD: true ]

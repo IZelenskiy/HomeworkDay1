@@ -1,0 +1,30 @@
+*** Lecture 29. Hash Maps ***
+
+* Traversing Map Keys
+Lexus
+Subaru
+Toyota
+Audi
+* Traversing Map Values
+Car [ Producer: Lexus, Model: RX420, Price: 10000, FourWD: true ]
+Car [ Producer: Subaru, Model: Outback, Price: 8000, FourWD: false ]
+Car [ Producer: Toyota, Model: RAV4, Price: 10000, FourWD: true ]
+Car [ Producer: Audi, Model: A3, Price: 12000, FourWD: false ]
+* Traversing Map Entries
+  KEY: Lexus
+  VALUE: Car [ Producer: Lexus, Model: RX420, Price: 10000, FourWD: true ]
+  KEY: Subaru
+  VALUE: Car [ Producer: Subaru, Model: Outback, Price: 8000, FourWD: false ]
+  KEY: Toyota
+  VALUE: Car [ Producer: Toyota, Model: RAV4, Price: 10000, FourWD: true ]
+  KEY: Audi
+  VALUE: Car [ Producer: Audi, Model: A3, Price: 12000, FourWD: false ]
+* TreeMap sorting
+  KEY: Audi
+  VALUE: Car [ Producer: Audi, Model: A3, Price: 12000, FourWD: false ]
+  KEY: Lexus
+  VALUE: Car [ Producer: Lexus, Model: RX420, Price: 10000, FourWD: true ]
+  KEY: Subaru
+  VALUE: Car [ Producer: Subaru, Model: Outback, Price: 8000, FourWD: false ]
+  KEY: Toyota
+  VALUE: Car [ Producer: Toyota, Model: RAV4, Price: 10000, FourWD: true ]

@@ -1,0 +1,23 @@
+*** Lecture 35. Introducing to multithreading ***
+
+Introducing to multithreading
+Thread 2 | Number: 0
+Thread 2 | Number: 1
+Thread 2 | Number: 2
+Thread 2 | Number: 3
+Thread 2 | Number: 4
+Thread 2 | Number: 5
+Thread 2 | Number: 6
+Thread 2 | Number: 7
+Thread 2 | Number: 8
+Thread 2 | Number: 9
+Thread 1 | Number: 0
+Thread 1 | Number: 1
+Thread 1 | Number: 2
+Thread 1 | Number: 3
+Thread 1 | Number: 4
+Thread 1 | Number: 5
+Thread 1 | Number: 6
+Thread 1 | Number: 7
+Thread 1 | Number: 8
+Thread 1 | Number: 9

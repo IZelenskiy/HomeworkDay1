@@ -1,0 +1,14 @@
+*** Lecture 25. Introduce to Collections ***
+
+*** Raw types ***
+String One
+29
+155.5
+H
+*** Explicit Conversion ***
+String One
+29
+*** Parameterized collections ***
+String One
+String Two
+String Three

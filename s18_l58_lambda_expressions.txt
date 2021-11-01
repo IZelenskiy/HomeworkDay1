@@ -1,0 +1,8 @@
+*** Lecture 58. Lambda Expressions ***
+
+* Lambda single expression
+* Lambda expression with parameters
+Result of expression: 22
+* Lambda expression with parameters and multiple lines
+Result of expression: 1
+elciheV

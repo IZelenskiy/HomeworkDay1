@@ -1,0 +1,9 @@
+*** Lecture 117. Periods ***
+
+Need to clan the cage on date = 2017-08-01
+Need to clan the cage on date = 2017-09-01
+Date 2017-08-01 plus period 7 days = 2017-08-08
+
+* Years and month period
+P1Y1M
+Need to clean the cage on date = 2017-08-01
